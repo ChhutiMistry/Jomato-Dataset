@@ -1,0 +1,38 @@
+[
+     {
+          "mealtype_id": 1,
+          "mealtype": "Breakfast",
+          "content": "Some exclusive Breakfast options for you",
+          "meal_image": "https://i.ibb.co/mhCm5ws/Breakfast.jpg"
+     },
+     {
+          "mealtype_id": 2,
+          "mealtype": "Lunch",
+          "content": "Some exclusive Lunch options for you",
+          "meal_image": "https://i.ibb.co/0D3wXxm/Lunch.png"
+     },
+     {
+          "mealtype_id": 3,
+          "mealtype": "Dinner",
+          "content": "Some exclusive Dinner options for you",
+          "meal_image": "https://i.ibb.co/MVtNL4w/Dinner.jpg"
+     },
+     {
+          "mealtype_id": 4,
+          "mealtype": "Snacks",
+          "content": "Some exclusive Snacks options for you",
+          "meal_image": "https://i.ibb.co/GkV8CG3/Snacks.jpg"
+     },
+     {
+          "mealtype_id": 5,
+          "mealtype": "Drinks",
+          "content": "Some exclusive Drinks options for you",
+          "meal_image": "https://i.ibb.co/bHF67ZP/Drinks.png"
+     },
+     {
+          "mealtype_id": 6,
+          "mealtype": "Beverages",
+          "content": "Some exclusive Beverages options for you",
+          "meal_image": "https://i.ibb.co/sWZ7vSm/Bevarages.jpg"
+          }
+     ]
